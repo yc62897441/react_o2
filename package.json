@@ -1,12 +1,15 @@
 {
   "name": "o2",
   "version": "1.0.0",
+  "homepage": "https://github.com/yc62897441/react_o2",
   "description": "",
   "main": "index.js",
   "scripts": {
     "build": "webpack --mode production",
     "start": "react-scripts start",
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build"
   },
   "keywords": [],
   "author": "",
@@ -20,9 +23,11 @@
     "webpack-cli": "^5.0.1"
   },
   "dependencies": {
+    "gh-pages": "^5.0.0",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
-    "react-scripts": "^5.0.1"
+    "react-scripts": "^5.0.1",
+    "styled-components": "^5.3.6"
   },
   "browserslist": {
     "production": [
