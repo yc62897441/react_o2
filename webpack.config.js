@@ -1,5 +1,6 @@
 const path = require('path')
 const HtmlWebpackPlugin = require('html-webpack-plugin')
+const webpack = require('webpack')
 
 module.exports = {
     mode: 'production',
@@ -13,22 +14,22 @@ module.exports = {
     module: {
         rules: [
             {
-                test: /\.jsx$/,
-                exclude: /node_modules/,
-                use: {
-                    loader: 'babel-loader',
-                    options: {
-                        presets: ['@babel/preset-env', '@babel/preset-react'],
-                    },
-                },
-            },
-            {
                 test: /.js$/,
                 exclude: /node_modules/,
                 use: {
                     loader: 'babel-loader',
                     options: {
                         presets: ['@babel/preset-env'],
+                    },
+                },
+            },
+            {
+                test: /\.jsx$/,
+                exclude: /node_modules/,
+                use: {
+                    loader: 'babel-loader',
+                    options: {
+                        presets: ['@babel/preset-env', '@babel/preset-react'],
                     },
                 },
             },
@@ -39,5 +40,13 @@ module.exports = {
             template: './public/index.html',
             filename: './index.html',
         }),
+        new webpack.ProvidePlugin({
+            React: 'react',
+            // ReactDOM: 'react-dom',
+        }),
     ],
+    // 不要加下面這個，不然會 Uncaught ReferenceError: React is not defined
+    // externals: {
+    //     react: 'React',
+    // },
 }
