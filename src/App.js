@@ -2,6 +2,7 @@
 import { ResetStyle, GlobalStyle } from './components/globalStyle'
 import Test from './components/Test.jsx'
 import TestJson from './components/TestJson.jsx'
+import TestImg from './components/TestImg.jsx'
 
 function App() {
     return (
@@ -12,6 +13,8 @@ function App() {
             <Test />
             <br />
             <TestJson />
+            <br />
+            <TestImg />
         </div>
     )
 }
