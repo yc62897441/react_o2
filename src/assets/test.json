@@ -1,0 +1,668 @@
+[
+   {
+      "Year":"2022",
+      "TypeNo":"014",
+      "TypeDesc":"2022 業務報告及財務報告",
+      "FileName":"202201financial.pdf",
+      "FileDesc":"1月",
+      "FileUrl":"reports/foxwellpower/202201financial.pdf",
+      "SortOrder":"10"
+   },
+   {
+      "Year":"2022",
+      "TypeNo":"014",
+      "TypeDesc":"2022 業務報告及財務報告",
+      "FileName":"202202financial.pdf",
+      "FileDesc":"2月",
+      "FileUrl":"reports/foxwellpower/202202financial.pdf",
+      "SortOrder":"20"
+   },
+   {
+      "Year":"2022",
+      "TypeNo":"014",
+      "TypeDesc":"2022 業務報告及財務報告",
+      "FileName":"202203financial.pdf",
+      "FileDesc":"3月",
+      "FileUrl":"reports/foxwellpower/202203financial.pdf",
+      "SortOrder":"30"
+   },
+   {
+      "Year":"2022",
+      "TypeNo":"014",
+      "TypeDesc":"2022 業務報告及財務報告",
+      "FileName":"202204financial.pdf",
+      "FileDesc":"4月",
+      "FileUrl":"reports/foxwellpower/202204financial.pdf",
+      "SortOrder":"40"
+   },
+   {
+      "Year":"2022",
+      "TypeNo":"014",
+      "TypeDesc":"2022 業務報告及財務報告",
+      "FileName":"7.pdf",
+      "FileDesc":"5月",
+      "FileUrl":"https://6806.shinfox.com.tw/ShinfoxFile/file/g02/7.pdf",
+      "SortOrder":"50"
+   },
+   {
+      "Year":"2022",
+      "TypeNo":"014",
+      "TypeDesc":"2022 業務報告及財務報告",
+      "FileName":"13.pdf",
+      "FileDesc":"6月",
+      "FileUrl":"https://6806.shinfox.com.tw/ShinfoxFile/file/g02/13.pdf",
+      "SortOrder":"60"
+   },
+   {
+      "Year":"2022",
+      "TypeNo":"014",
+      "TypeDesc":"2022 業務報告及財務報告",
+      "FileName":"19.pdf",
+      "FileDesc":"7月",
+      "FileUrl":"https://6806.shinfox.com.tw/ShinfoxFile/file/g02/19.pdf",
+      "SortOrder":"70"
+   },
+   {
+      "Year":"2022",
+      "TypeNo":"014",
+      "TypeDesc":"2022 業務報告及財務報告",
+      "FileName":"26.pdf",
+      "FileDesc":"8月",
+      "FileUrl":"https://6806.shinfox.com.tw/ShinfoxFile/file/g02/26.pdf",
+      "SortOrder":"80"
+   },
+   {
+      "Year":"2022",
+      "TypeNo":"014",
+      "TypeDesc":"2022 業務報告及財務報告",
+      "FileName":"32.pdf",
+      "FileDesc":"9月",
+      "FileUrl":"https://6806.shinfox.com.tw/ShinfoxFile/file/g02/32.pdf",
+      "SortOrder":"90"
+   },
+   {
+      "Year":"2022",
+      "TypeNo":"014",
+      "TypeDesc":"2022 業務報告及財務報告",
+      "FileName":"45.pdf",
+      "FileDesc":"10月",
+      "FileUrl":"https://6806.shinfox.com.tw/ShinfoxFile/file/g02/45.pdf",
+      "SortOrder":"100"
+   },
+   {
+      "Year":"2022",
+      "TypeNo":"014",
+      "TypeDesc":"2022 業務報告及財務報告",
+      "FileName":"51.pdf",
+      "FileDesc":"11月",
+      "FileUrl":"https://6806.shinfox.com.tw/ShinfoxFile/file/g02/51.pdf",
+      "SortOrder":"110"
+   },
+   {
+      "Year":"2022",
+      "TypeNo":"015",
+      "TypeDesc":"2022 營運綜合摘要分析報告",
+      "FileName":"202201summary.pdf",
+      "FileDesc":"1月",
+      "FileUrl":"reports/foxwellpower/202201summary.pdf",
+      "SortOrder":"10"
+   },
+   {
+      "Year":"2022",
+      "TypeNo":"015",
+      "TypeDesc":"2022 營運綜合摘要分析報告",
+      "FileName":"202202summary.pdf",
+      "FileDesc":"2月",
+      "FileUrl":"reports/foxwellpower/202202summary.pdf",
+      "SortOrder":"20"
+   },
+   {
+      "Year":"2022",
+      "TypeNo":"015",
+      "TypeDesc":"2022 營運綜合摘要分析報告",
+      "FileName":"202203summary.pdf",
+      "FileDesc":"3月",
+      "FileUrl":"reports/foxwellpower/202203summary.pdf",
+      "SortOrder":"30"
+   },
+   {
+      "Year":"2022",
+      "TypeNo":"015",
+      "TypeDesc":"2022 營運綜合摘要分析報告",
+      "FileName":"202204summary.pdf",
+      "FileDesc":"4月",
+      "FileUrl":"reports/foxwellpower/202204summary.pdf",
+      "SortOrder":"40"
+   },
+   {
+      "Year":"2022",
+      "TypeNo":"015",
+      "TypeDesc":"2022 營運綜合摘要分析報告",
+      "FileName":"8.pdf",
+      "FileDesc":"5月",
+      "FileUrl":"https://6806.shinfox.com.tw/ShinfoxFile/file/g02/8.pdf",
+      "SortOrder":"50"
+   },
+   {
+      "Year":"2022",
+      "TypeNo":"015",
+      "TypeDesc":"2022 營運綜合摘要分析報告",
+      "FileName":"14.pdf",
+      "FileDesc":"6月",
+      "FileUrl":"https://6806.shinfox.com.tw/ShinfoxFile/file/g02/14.pdf",
+      "SortOrder":"60"
+   },
+   {
+      "Year":"2022",
+      "TypeNo":"015",
+      "TypeDesc":"2022 營運綜合摘要分析報告",
+      "FileName":"20.pdf",
+      "FileDesc":"7月",
+      "FileUrl":"https://6806.shinfox.com.tw/ShinfoxFile/file/g02/20.pdf",
+      "SortOrder":"70"
+   },
+   {
+      "Year":"2022",
+      "TypeNo":"015",
+      "TypeDesc":"2022 營運綜合摘要分析報告",
+      "FileName":"27.pdf",
+      "FileDesc":"8月",
+      "FileUrl":"https://6806.shinfox.com.tw/ShinfoxFile/file/g02/27.pdf",
+      "SortOrder":"80"
+   },
+   {
+      "Year":"2022",
+      "TypeNo":"015",
+      "TypeDesc":"2022 營運綜合摘要分析報告",
+      "FileName":"33.pdf",
+      "FileDesc":"9月",
+      "FileUrl":"https://6806.shinfox.com.tw/ShinfoxFile/file/g02/33.pdf",
+      "SortOrder":"90"
+   },
+   {
+      "Year":"2022",
+      "TypeNo":"015",
+      "TypeDesc":"2022 營運綜合摘要分析報告",
+      "FileName":"49.pdf",
+      "FileDesc":"10月",
+      "FileUrl":"https://6806.shinfox.com.tw/ShinfoxFile/file/g02/49.pdf",
+      "SortOrder":"100"
+   },
+   {
+      "Year":"2022",
+      "TypeNo":"015",
+      "TypeDesc":"2022 營運綜合摘要分析報告",
+      "FileName":"55.pdf",
+      "FileDesc":"11月",
+      "FileUrl":"https://6806.shinfox.com.tw/ShinfoxFile/file/g02/55.pdf",
+      "SortOrder":"110"
+   },
+   {
+      "Year":"2021",
+      "TypeNo":"014",
+      "TypeDesc":"2021 業務報告及財務報告",
+      "FileName":"202101financial.pdf",
+      "FileDesc":"1月",
+      "FileUrl":"reports/foxwellpower/202101financial.pdf",
+      "SortOrder":"10"
+   },
+   {
+      "Year":"2021",
+      "TypeNo":"014",
+      "TypeDesc":"2021 業務報告及財務報告",
+      "FileName":"202102financial.pdf",
+      "FileDesc":"2月",
+      "FileUrl":"reports/foxwellpower/202102financial.pdf",
+      "SortOrder":"20"
+   },
+   {
+      "Year":"2021",
+      "TypeNo":"014",
+      "TypeDesc":"2021 業務報告及財務報告",
+      "FileName":"202103financial.pdf",
+      "FileDesc":"3月",
+      "FileUrl":"reports/foxwellpower/202103financial.pdf",
+      "SortOrder":"30"
+   },
+   {
+      "Year":"2021",
+      "TypeNo":"014",
+      "TypeDesc":"2021 業務報告及財務報告",
+      "FileName":"202104financial.pdf",
+      "FileDesc":"4月",
+      "FileUrl":"reports/foxwellpower/202104financial.pdf",
+      "SortOrder":"40"
+   },
+   {
+      "Year":"2021",
+      "TypeNo":"014",
+      "TypeDesc":"2021 業務報告及財務報告",
+      "FileName":"202105financial.pdf",
+      "FileDesc":"5月",
+      "FileUrl":"reports/foxwellpower/202105financial.pdf",
+      "SortOrder":"50"
+   },
+   {
+      "Year":"2021",
+      "TypeNo":"014",
+      "TypeDesc":"2021 業務報告及財務報告",
+      "FileName":"202106financial.pdf",
+      "FileDesc":"6月",
+      "FileUrl":"reports/foxwellpower/202106financial.pdf",
+      "SortOrder":"60"
+   },
+   {
+      "Year":"2021",
+      "TypeNo":"014",
+      "TypeDesc":"2021 業務報告及財務報告",
+      "FileName":"202107financial.pdf",
+      "FileDesc":"7月",
+      "FileUrl":"reports/foxwellpower/202107financial.pdf",
+      "SortOrder":"70"
+   },
+   {
+      "Year":"2021",
+      "TypeNo":"014",
+      "TypeDesc":"2021 業務報告及財務報告",
+      "FileName":"202108financial.pdf",
+      "FileDesc":"8月",
+      "FileUrl":"reports/foxwellpower/202108financial.pdf",
+      "SortOrder":"80"
+   },
+   {
+      "Year":"2021",
+      "TypeNo":"014",
+      "TypeDesc":"2021 業務報告及財務報告",
+      "FileName":"202109financial.pdf",
+      "FileDesc":"9月",
+      "FileUrl":"reports/foxwellpower/202109financial.pdf",
+      "SortOrder":"90"
+   },
+   {
+      "Year":"2021",
+      "TypeNo":"014",
+      "TypeDesc":"2021 業務報告及財務報告",
+      "FileName":"202110financial.pdf",
+      "FileDesc":"10月",
+      "FileUrl":"reports/foxwellpower/202110financial.pdf",
+      "SortOrder":"100"
+   },
+   {
+      "Year":"2021",
+      "TypeNo":"014",
+      "TypeDesc":"2021 業務報告及財務報告",
+      "FileName":"202111financial.pdf",
+      "FileDesc":"11月",
+      "FileUrl":"reports/foxwellpower/202111financial.pdf",
+      "SortOrder":"110"
+   },
+   {
+      "Year":"2021",
+      "TypeNo":"014",
+      "TypeDesc":"2021 業務報告及財務報告",
+      "FileName":"202112financial.pdf",
+      "FileDesc":"12月",
+      "FileUrl":"reports/foxwellpower/202112financial.pdf",
+      "SortOrder":"120"
+   },
+   {
+      "Year":"2021",
+      "TypeNo":"015",
+      "TypeDesc":"2021 營運綜合摘要分析報告",
+      "FileName":"4.pdf",
+      "FileDesc":"全年度報告",
+      "FileUrl":"https://6806.shinfox.com.tw/ShinfoxFile/file/g02/4.pdf",
+      "SortOrder":"1"
+   },
+   {
+      "Year":"2021",
+      "TypeNo":"015",
+      "TypeDesc":"2021 營運綜合摘要分析報告",
+      "FileName":"202101summary.pdf",
+      "FileDesc":"1月",
+      "FileUrl":"reports/foxwellpower/202101summary.pdf",
+      "SortOrder":"10"
+   },
+   {
+      "Year":"2021",
+      "TypeNo":"015",
+      "TypeDesc":"2021 營運綜合摘要分析報告",
+      "FileName":"202102summary.pdf",
+      "FileDesc":"2月",
+      "FileUrl":"reports/foxwellpower/202102summary.pdf",
+      "SortOrder":"20"
+   },
+   {
+      "Year":"2021",
+      "TypeNo":"015",
+      "TypeDesc":"2021 營運綜合摘要分析報告",
+      "FileName":"202103summary.pdf",
+      "FileDesc":"3月",
+      "FileUrl":"reports/foxwellpower/202103summary.pdf",
+      "SortOrder":"30"
+   },
+   {
+      "Year":"2021",
+      "TypeNo":"015",
+      "TypeDesc":"2021 營運綜合摘要分析報告",
+      "FileName":"202104summary.pdf",
+      "FileDesc":"4月",
+      "FileUrl":"reports/foxwellpower/202104summary.pdf",
+      "SortOrder":"40"
+   },
+   {
+      "Year":"2021",
+      "TypeNo":"015",
+      "TypeDesc":"2021 營運綜合摘要分析報告",
+      "FileName":"202105summary.pdf",
+      "FileDesc":"5月",
+      "FileUrl":"reports/foxwellpower/202105summary.pdf",
+      "SortOrder":"50"
+   },
+   {
+      "Year":"2021",
+      "TypeNo":"015",
+      "TypeDesc":"2021 營運綜合摘要分析報告",
+      "FileName":"202106summary.pdf",
+      "FileDesc":"6月",
+      "FileUrl":"reports/foxwellpower/202106summary.pdf",
+      "SortOrder":"60"
+   },
+   {
+      "Year":"2021",
+      "TypeNo":"015",
+      "TypeDesc":"2021 營運綜合摘要分析報告",
+      "FileName":"202107summary.pdf",
+      "FileDesc":"7月",
+      "FileUrl":"reports/foxwellpower/202107summary.pdf",
+      "SortOrder":"70"
+   },
+   {
+      "Year":"2021",
+      "TypeNo":"015",
+      "TypeDesc":"2021 營運綜合摘要分析報告",
+      "FileName":"202108summary.pdf",
+      "FileDesc":"8月",
+      "FileUrl":"reports/foxwellpower/202108summary.pdf",
+      "SortOrder":"80"
+   },
+   {
+      "Year":"2021",
+      "TypeNo":"015",
+      "TypeDesc":"2021 營運綜合摘要分析報告",
+      "FileName":"202109summary.pdf",
+      "FileDesc":"9月",
+      "FileUrl":"reports/foxwellpower/202109summary.pdf",
+      "SortOrder":"90"
+   },
+   {
+      "Year":"2021",
+      "TypeNo":"015",
+      "TypeDesc":"2021 營運綜合摘要分析報告",
+      "FileName":"202110summary.pdf",
+      "FileDesc":"10月",
+      "FileUrl":"reports/foxwellpower/202110summary.pdf",
+      "SortOrder":"100"
+   },
+   {
+      "Year":"2021",
+      "TypeNo":"015",
+      "TypeDesc":"2021 營運綜合摘要分析報告",
+      "FileName":"202111summary.pdf",
+      "FileDesc":"11月",
+      "FileUrl":"reports/foxwellpower/202111summary.pdf",
+      "SortOrder":"110"
+   },
+   {
+      "Year":"2021",
+      "TypeNo":"015",
+      "TypeDesc":"2021 營運綜合摘要分析報告",
+      "FileName":"202112summary.pdf",
+      "FileDesc":"12月",
+      "FileUrl":"reports/foxwellpower/202112summary.pdf",
+      "SortOrder":"120"
+   },
+   {
+      "Year":"2020",
+      "TypeNo":"014",
+      "TypeDesc":"2020 業務報告及財務報告",
+      "FileName":"202001financial.pdf",
+      "FileDesc":"1月",
+      "FileUrl":"reports/foxwellpower/202001financial.pdf",
+      "SortOrder":"10"
+   },
+   {
+      "Year":"2020",
+      "TypeNo":"014",
+      "TypeDesc":"2020 業務報告及財務報告",
+      "FileName":"202002financial.pdf",
+      "FileDesc":"2月",
+      "FileUrl":"reports/foxwellpower/202002financial.pdf",
+      "SortOrder":"20"
+   },
+   {
+      "Year":"2020",
+      "TypeNo":"014",
+      "TypeDesc":"2020 業務報告及財務報告",
+      "FileName":"202003financial.pdf",
+      "FileDesc":"3月",
+      "FileUrl":"reports/foxwellpower/202003financial.pdf",
+      "SortOrder":"30"
+   },
+   {
+      "Year":"2020",
+      "TypeNo":"014",
+      "TypeDesc":"2020 業務報告及財務報告",
+      "FileName":"202004financial.pdf",
+      "FileDesc":"4月",
+      "FileUrl":"reports/foxwellpower/202004financial.pdf",
+      "SortOrder":"40"
+   },
+   {
+      "Year":"2020",
+      "TypeNo":"014",
+      "TypeDesc":"2020 業務報告及財務報告",
+      "FileName":"202005financial.pdf",
+      "FileDesc":"5月",
+      "FileUrl":"reports/foxwellpower/202005financial.pdf",
+      "SortOrder":"50"
+   },
+   {
+      "Year":"2020",
+      "TypeNo":"014",
+      "TypeDesc":"2020 業務報告及財務報告",
+      "FileName":"202006financial.pdf",
+      "FileDesc":"6月",
+      "FileUrl":"reports/foxwellpower/202006financial.pdf",
+      "SortOrder":"60"
+   },
+   {
+      "Year":"2020",
+      "TypeNo":"014",
+      "TypeDesc":"2020 業務報告及財務報告",
+      "FileName":"202007financial.pdf",
+      "FileDesc":"7月",
+      "FileUrl":"reports/foxwellpower/202007financial.pdf",
+      "SortOrder":"70"
+   },
+   {
+      "Year":"2020",
+      "TypeNo":"014",
+      "TypeDesc":"2020 業務報告及財務報告",
+      "FileName":"202008financial.pdf",
+      "FileDesc":"8月",
+      "FileUrl":"reports/foxwellpower/202008financial.pdf",
+      "SortOrder":"80"
+   },
+   {
+      "Year":"2020",
+      "TypeNo":"014",
+      "TypeDesc":"2020 業務報告及財務報告",
+      "FileName":"202009financial.pdf",
+      "FileDesc":"9月",
+      "FileUrl":"reports/foxwellpower/202009financial.pdf",
+      "SortOrder":"90"
+   },
+   {
+      "Year":"2020",
+      "TypeNo":"014",
+      "TypeDesc":"2020 業務報告及財務報告",
+      "FileName":"202010financial.pdf",
+      "FileDesc":"10月",
+      "FileUrl":"reports/foxwellpower/202010financial.pdf",
+      "SortOrder":"100"
+   },
+   {
+      "Year":"2020",
+      "TypeNo":"014",
+      "TypeDesc":"2020 業務報告及財務報告",
+      "FileName":"202011financial.pdf",
+      "FileDesc":"11月",
+      "FileUrl":"reports/foxwellpower/202011financial.pdf",
+      "SortOrder":"110"
+   },
+   {
+      "Year":"2020",
+      "TypeNo":"014",
+      "TypeDesc":"2020 業務報告及財務報告",
+      "FileName":"202012financial.pdf",
+      "FileDesc":"12月",
+      "FileUrl":"reports/foxwellpower/202012financial.pdf",
+      "SortOrder":"120"
+   },
+   {
+      "Year":"2020",
+      "TypeNo":"015",
+      "TypeDesc":"2020 營運綜合摘要分析報告",
+      "FileName":"2020summary.pdf",
+      "FileDesc":"全年度報告",
+      "FileUrl":"reports/foxwellpower/2020summary.pdf",
+      "SortOrder":"1"
+   },
+   {
+      "Year":"2020",
+      "TypeNo":"015",
+      "TypeDesc":"2020 營運綜合摘要分析報告",
+      "FileName":"202001summary.pdf",
+      "FileDesc":"1月",
+      "FileUrl":"reports/foxwellpower/202001summary.pdf",
+      "SortOrder":"10"
+   },
+   {
+      "Year":"2020",
+      "TypeNo":"015",
+      "TypeDesc":"2020 營運綜合摘要分析報告",
+      "FileName":"202002summary.pdf",
+      "FileDesc":"2月",
+      "FileUrl":"reports/foxwellpower/202002summary.pdf",
+      "SortOrder":"20"
+   },
+   {
+      "Year":"2020",
+      "TypeNo":"015",
+      "TypeDesc":"2020 營運綜合摘要分析報告",
+      "FileName":"202003summary.pdf",
+      "FileDesc":"3月",
+      "FileUrl":"reports/foxwellpower/202003summary.pdf",
+      "SortOrder":"30"
+   },
+   {
+      "Year":"2020",
+      "TypeNo":"015",
+      "TypeDesc":"2020 營運綜合摘要分析報告",
+      "FileName":"202004summary.pdf",
+      "FileDesc":"4月",
+      "FileUrl":"reports/foxwellpower/202004summary.pdf",
+      "SortOrder":"40"
+   },
+   {
+      "Year":"2020",
+      "TypeNo":"015",
+      "TypeDesc":"2020 營運綜合摘要分析報告",
+      "FileName":"202005summary.pdf",
+      "FileDesc":"5月",
+      "FileUrl":"reports/foxwellpower/202005summary.pdf",
+      "SortOrder":"50"
+   },
+   {
+      "Year":"2020",
+      "TypeNo":"015",
+      "TypeDesc":"2020 營運綜合摘要分析報告",
+      "FileName":"202006summary.pdf",
+      "FileDesc":"6月",
+      "FileUrl":"reports/foxwellpower/202006summary.pdf",
+      "SortOrder":"60"
+   },
+   {
+      "Year":"2020",
+      "TypeNo":"015",
+      "TypeDesc":"2020 營運綜合摘要分析報告",
+      "FileName":"202007summary.pdf",
+      "FileDesc":"7月",
+      "FileUrl":"reports/foxwellpower/202007summary.pdf",
+      "SortOrder":"70"
+   },
+   {
+      "Year":"2020",
+      "TypeNo":"015",
+      "TypeDesc":"2020 營運綜合摘要分析報告",
+      "FileName":"202008summary.pdf",
+      "FileDesc":"8月",
+      "FileUrl":"reports/foxwellpower/202008summary.pdf",
+      "SortOrder":"80"
+   },
+   {
+      "Year":"2020",
+      "TypeNo":"015",
+      "TypeDesc":"2020 營運綜合摘要分析報告",
+      "FileName":"202009summary.pdf",
+      "FileDesc":"9月",
+      "FileUrl":"reports/foxwellpower/202009summary.pdf",
+      "SortOrder":"90"
+   },
+   {
+      "Year":"2020",
+      "TypeNo":"015",
+      "TypeDesc":"2020 營運綜合摘要分析報告",
+      "FileName":"202010summary.pdf",
+      "FileDesc":"10月",
+      "FileUrl":"reports/foxwellpower/202010summary.pdf",
+      "SortOrder":"100"
+   },
+   {
+      "Year":"2020",
+      "TypeNo":"015",
+      "TypeDesc":"2020 營運綜合摘要分析報告",
+      "FileName":"202011summary.pdf",
+      "FileDesc":"11月",
+      "FileUrl":"reports/foxwellpower/202011summary.pdf",
+      "SortOrder":"110"
+   },
+   {
+      "Year":"2020",
+      "TypeNo":"015",
+      "TypeDesc":"2020 營運綜合摘要分析報告",
+      "FileName":"202012summary.pdf",
+      "FileDesc":"12月",
+      "FileUrl":"reports/foxwellpower/202012summary.pdf",
+      "SortOrder":"120"
+   },
+   {
+      "Year":"2019",
+      "TypeNo":"014",
+      "TypeDesc":"2019 業務報告及財務報告",
+      "FileName":"201912financial.pdf",
+      "FileDesc":"12月",
+      "FileUrl":"reports/foxwellpower/201912financial.pdf",
+      "SortOrder":"120"
+   },
+   {
+      "Year":"2019",
+      "TypeNo":"015",
+      "TypeDesc":"2019 營運綜合摘要分析報告",
+      "FileName":"201912summary.pdf",
+      "FileDesc":"12月",
+      "FileUrl":"reports/foxwellpower/201912summary.pdf",
+      "SortOrder":"120"
+   }
+]
