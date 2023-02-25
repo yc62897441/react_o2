@@ -24,15 +24,15 @@ const TestImgContainer = styled.div`
 
 function TestImg() {
     return (
-        <TestImgWrapper>
-            <h1>This is the TestImg Component</h1>
-            <TestImgContainer>
-                <img src={BallImgJpg} alt="" srcset="" />
-            </TestImgContainer>
-            <TestImgContainer>
-                <img src={BallImgPng} alt="" srcset="" />
-            </TestImgContainer>
-        </TestImgWrapper>
+            <TestImgWrapper>
+                <h1>This is the TestImg Component</h1>
+                <TestImgContainer>
+                    <img src={BallImgJpg} alt="" srcset="" />
+                </TestImgContainer>
+                <TestImgContainer>
+                    <img src={BallImgPng} alt="" srcset="" />
+                </TestImgContainer>
+            </TestImgWrapper>
     )
 }
 

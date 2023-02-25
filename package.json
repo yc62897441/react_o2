@@ -1,5 +1,6 @@
 {
   "name": "o2",
+  "homepage": "https://github.com/yc62897441/react_o2",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -23,6 +24,7 @@
   "dependencies": {
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
+    "react-router-dom": "^5.3.4",
     "react-scripts": "^5.0.1",
     "styled-components": "^5.3.6"
   },
